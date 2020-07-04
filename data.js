@@ -9,17 +9,17 @@ var data = [
       },
       {
         "points": 200,
-        "question": "Outdoor exercise and recreation",
+        "question": "<h1>Outdoor exercise and recreation</h1>",
         "answer": "<p>Outdoor activity is generally lower risk.<p><br> <ul><li> Passing by people briefly is lower risk.</li><li>The more people the greater the risk.</li><li>Try to find less crowded areas and times.</li></ul"
       },
       {
         "points": 300,
-        "question": "Vacation home, hotel or motel",
+        "question": "<h1>Vacation home, hotel or motel</h1>",
         "answer": "<p>Once you are in the lodging, the risk is lower.</p><br><ul><li>Car travel with household members is lowest risk.</li><li>Try to plan ahead and take the necessary food and supplies.</li><li>Think about what you will do if you become ill while you are away.</li><li>Do a personal risk/benefit analysis for activities you might participate in while away.</li></ul>"
       },
       {
         "points": 400,
-        "question": "Recreational sports - Tennis",
+        "question": "<h1>Recreational sports - Tennis</h1>",
         "answer": "<p>It depends on the sport and the practices. <p> <br> <ul><li>Outdoor singles tennis could be lower risk.</li> <li>Modify rules to avoid contact, and wash hands and use disinfectant on equipment.</li><li>Involve close contact with others so there is some additional risk.</li></ul>"
       }
     ]
@@ -29,23 +29,23 @@ var data = [
     "questions": [
       {
         "points": 100,
-        "question": "<p>Where can you define a component's initial state when you use the ES6 Class syntax?</p><ol><li>getInitialState()</li><li>getInitialProps()</li><li>The component's constructor</li></ol>",
-        "answer": "C. The component's constructor"
+        "question": "<h1>Shopping</h1>",
+        "answer": "<p>Depends on whether the shopping is indoors or outdoors. It can, and sometimes hard to maintain distance. Others may not wear masks</p><br><ul><li>Go with a list, and take advantage of less-crowded hours.</li><li>Stores often offer hours for higher-risk individuals and have guidelines to follow.</li></ul>"
       },
       {
         "points": 200,
-        "question": "Using npm, which package should you require/import in addition to 'react' to render a React component in an existing DOM element of your HTML file?",
-        "answer": "react-dom"
+        "question": "<h1>Dining out</h1>",
+        "answer": "<ul><li>To reduce risk, dine outside.</li><li>Don’t linger or mingle with other parties.</li><li>wear your mask if you need to get up to use the restroom and when coming and going.</li></ul>"
       },
       {
         "points": 300,
-        "question": "<p>Which lifecycle function should you use to set default property values?</p><ol><li>getInitialState</li><li>getInitialProps</li><li>getDefaultProps</li></ol>",
-        "answer": "C. getDefaultProps"
+        "question": "<h1>Playground</h1>",
+        "answer": "<ul><li>Outside, but difficult to maintain physical distance between children and surfaces are frequently touched.</li><li>Be kind and wait for your turn.</li><li>Take disinfecting and hand cleaning supplies with you.</li></ul>"
       },
       {
         "points": 400,
-        "question": "Which lifecycle method is invoked once, immediately after the initial rendering occurs?",
-        "answer": "componentDidMount"
+        "question": "<h1>Swimming</h1>",
+        "answer": "<ul><li>Strategize ways to avoid common areas and maintain distance.</li><li>Wear a mask when possible and bring an extra mask in case one gets wet.</li></ul>"
       }
     ]
   },
@@ -55,7 +55,7 @@ var data = [
       {
         "points": 100,
         "question": "<p>Constants (const) are:</p><ol><li>Block scoped</li><li>Function scoped</li><li>Global</li></ol>",
-        "answer": "A. Block scoped"
+        "answer": "https://covid19.colorado.gov/risks-benefits"
       },
       {
         "points": 200,
