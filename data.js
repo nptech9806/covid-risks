@@ -5,7 +5,7 @@ var data = [
       {
         "points": 100,
         "question": "<h1>Camping</h1>",
-        "answer": "<p>Lowest if you camp with your household contacts.</p><br><ol><li>Plan well to avoid unanticipated stops and interactions.</li><li>Respect the community and follow local guidelines and restrictions.</li><li>https://covid19.colorado.gov/safer-at-home/guidance-by-sector/campgrounds</li></ol>"
+        "answer": "<p>Lowest if you camp with your household contacts.</p><br><ol><li>Plan well to avoid unanticipated stops and interactions.</li><li>Respect the community and follow local guidelines and restrictions.</li><li><a href='https://covid19.colorado.gov/safer-at-home/guidance-by-sector/campgrounds'>Campground guidance</a></li></ol>"
       },
       {
         "points": 200,
