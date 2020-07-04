@@ -5,17 +5,17 @@ var data = [
       {
         "points": 100,
         "question": "<h1>Camping</h1>",
-        "answer": "<p>Lowest if you camp with your household contacts.</p><br><ol><li>Plan well to avoid unanticipated stops and interactions.</li><li>Respect the community and follow local guidelines and restrictions.</li><li><a href='https://covid19.colorado.gov/safer-at-home/guidance-by-sector/campgrounds'>Campground guidance</a></li></ol>"
+        "answer": "<p>Lowest if you camp with your household contacts.</p><br><ul><li>Plan well to avoid unanticipated stops and interactions.</li><li>Respect the community and follow local guidelines and restrictions.</li><li><a href='https://covid19.colorado.gov/safer-at-home/guidance-by-sector/campgrounds'>Campground guidance</a></li></ul>"
       },
       {
         "points": 200,
-        "question": "_____ lets you create JavaScript objects using HTML syntax",
-        "answer": "JSX"
+        "question": "Outdoor exercise and recreation",
+        "answer": "<p>Outdoor activity is generally lower risk, and passing by people briefly is lower risk.<p><br> <ul><li>The more people the greater the risk, so try to find less crowded areas and times.</li></ul"
       },
       {
         "points": 300,
-        "question": "What tool can you use to transpile JSX?",
-        "answer": "Babel"
+        "question": "Vacation home, hotel or motel",
+        "answer": "<p>Once you are in the lodging, the risk is lower.</p><br><ul><li>Consider the risks of travel and the people you may encounter getting there; car travel with household members is lowest risk.</li><li>Try to plan ahead and take the necessary food and supplies.</li><li>Think about what you will do if you become ill while you are away.</li><li>Do a personal risk/benefit analysis for activities you might participate in while away.</li></ul>"
       },
       {
         "points": 400,
