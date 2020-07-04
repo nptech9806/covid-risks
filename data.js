@@ -19,7 +19,7 @@ var data = [
       },
       {
         "points": 400,
-        "question": "<h1>Recreational sports - Tennis</h1>",
+        "question": "<h1>Recreational sports</h1>",
         "answer": "<p>It depends on the sport and the practices. <p> <br> <ul><li>Outdoor singles tennis could be lower risk.</li> <li>Modify rules to avoid contact, and wash hands and use disinfectant on equipment.</li><li>Involve close contact with others so there is some additional risk.</li></ul>"
       }
     ]
@@ -54,23 +54,23 @@ var data = [
     "questions": [
       {
         "points": 100,
-        "question": "<p>Constants (const) are:</p><ol><li>Block scoped</li><li>Function scoped</li><li>Global</li></ol>",
-        "answer": "https://covid19.colorado.gov/risks-benefits"
+        "question": "<h1>Airline travel</h1>",
+        "answer": "<ul><li>Check airlines and airports for their policies and procedures about COVID-19.</li><li>Check restrictions in the place you are traveling to.</li><li>Prepare well with enough medication to last the entire trip, plus extra in case the trip must be extended.</li><li>Bring hand sanitizer and disinfecting wipes.</li><li>Consider what you would do if you became ill while you are away.</li><li>The risk may increase as more people become comfortable traveling.</li><li>Check policies about canceling due to crowded flights where social distancing is not possible.</li></ul>"
       },
       {
         "points": 200,
-        "question": "Name 3 new collection classes in ES2015",
-        "answer": "<ul><li>Map</li><li>WeakMap</li><li>Set</li><li>WeakSet</li></ul>"
+        "question": "<h1>Places of worship</h1>",
+        "answer": "<ul><li>Places of worship should follow guidelines; this will help minimize risk.</li><li>People in higher-risk categories should carefully consider whether alternatives that are not in-person would be better.</li></ul>"
       },
       {
         "points": 300,
-        "question": "<p>What's being logged and how is this new ES6 feature called?</p><code>var colors = ['red', 'blue', 'green'];<br/>var [primary, secondary, tertiary] = colors;<br/>console.log(secondary);</code>",
-        "answer": "<ul><li>blue</li><li>Array destructuring</li></ul>"
+        "question": "<h1>Personal services</h1>",
+        "answer": "<ul><li>Use personal service providers who follow guidelines.</li><li>Limit talking -- when someone is infected, talking results in more virus particles in the air.</li><li>Higher-risk individuals should consider carefully.</li></ul>"
       },
       {
         "points": 400,
-        "question": "<p>What's being logged and name 4 new features of ES6 used in this code snippet?</p><code>let greeting = (name, msg='Hello') => `${msg}, ${name}`;<br/>console.log(greeting('Christophe');</code>",
-        "answer": "<p>Hello, Christophe</p><ul><li>let variables</li><li>Arrow functions</li><li>Default parameters</li><li>Template strings</li></ul>"
+        "question": "<h1>Events and gatherings</h1>",
+        "answer": "<ul><li>Smaller and in-person gathering in which individuals from different households remain spaced at least 6 feet apart, wear masks, do not share objects</li><li>Medium-sized in-person gatherings that are adapted to allow individuals to remain spaced at least 6 feet apart and with attendees coming from outside the local area.</li></ul>"
       }
     ]
   },
@@ -79,23 +79,23 @@ var data = [
     "questions": [
       {
         "points": 100,
-        "question": "Using the proposed ECMAScript module syntax, how do you load the Mortgage.js module from the current directory and make all its members available in an object named mortgage?",
-        "answer": "<code>import * as mortgage from './Mortgage';</code>"
+        "question": "<h1>Bars, breweries, nightclubs</h1>",
+        "answer": "<h3>Minimize time and stay outdoors. where you might be able to maintain distance.</h3><br><h3>Avoid crowded locations</h3><br><h3>People in high-risk categories should consider higher risk activities carefully.</h3>"
       },
       {
         "points": 200,
-        "question": "What are the colors of the olympic rings?",
-        "answer": "<img src='assets/img/olympic_rings.png'/>"
+        "question": "<h1>Gym, fitness facility</h1>",
+        "answer": "<h2>Higher-risk people should consider safer alternatives, such as outdoor or home exercise.</h2>"
       },
       {
         "points": 300,
-        "question": "What's the date of the first React commit on GitHub?",
-        "answer": "May 26th, 2013"
+        "question": "<h1>Singing with groups</h1>",
+        "answer": "<h2>Singing has been shown to result in more virus particles in the air at distances much greater than 6 feet.</h2>"
       },
       {
         "points": 400,
-        "question": "What's the hex color of the React logo?",
-        "answer": "#61DAFB"
+        "question": "<h1>Large Gatherings</h1>",
+        "answer": "<h2>PLEASE KINDLY AVOID, Save yourself your family and save everyone of us from this deadly pandemic</h2>"
       }
     ]
   }
