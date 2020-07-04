@@ -5,22 +5,22 @@ var data = [
       {
         "points": 100,
         "question": "<h1>Camping</h1>",
-        "answer": "<p>Lowest if you camp with your household contacts.</p><br><ul><li>Plan well to avoid unanticipated stops and interactions.</li><li>Respect the community and follow local guidelines and restrictions.</li><li><a href='https://covid19.colorado.gov/safer-at-home/guidance-by-sector/campgrounds'>Campground guidance</a></li></ul>"
+        "answer": "<h2>Lowest if you camp with your household contacts.</h2><br><ul><li>Plan well to avoid unanticipated stops and interactions.</li><li>Respect the community and follow local guidelines and restrictions.</li><li><a href='https://covid19.colorado.gov/safer-at-home/guidance-by-sector/campgrounds'>Campground guidance</a></li></ul>"
       },
       {
         "points": 200,
         "question": "<h1>Outdoor exercise and recreation</h1>",
-        "answer": "<p>Outdoor activity is generally lower risk.<p><br> <ul><li> Passing by people briefly is lower risk.</li><li>The more people the greater the risk.</li><li>Try to find less crowded areas and times.</li></ul"
+        "answer": "<h2>Outdoor activity is generally lower risk.<h2><br> <ul><li> Passing by people briefly is lower risk.</li><li>The more people the greater the risk.</li><li>Try to find less crowded areas and times.</li></ul"
       },
       {
         "points": 300,
         "question": "<h1>Vacation home, hotel or motel</h1>",
-        "answer": "<p>Once you are in the lodging, the risk is lower.</p><br><ul><li>Car travel with household members is lowest risk.</li><li>Try to plan ahead and take the necessary food and supplies.</li><li>Think about what you will do if you become ill while you are away.</li><li>Do a personal risk/benefit analysis for activities you might participate in while away.</li></ul>"
+        "answer": "<h2>Once you are in the lodging, the risk is lower.</h2><br><ul><li>Car travel with household members is lowest risk.</li><li>Try to plan ahead and take the necessary food and supplies.</li><li>Think about what you will do if you become ill while you are away.</li><li>Do a personal risk/benefit analysis for activities you might participate in while away.</li></ul>"
       },
       {
         "points": 400,
         "question": "<h1>Recreational sports</h1>",
-        "answer": "<p>It depends on the sport and the practices. <p> <br> <ul><li>Outdoor singles tennis could be lower risk.</li> <li>Modify rules to avoid contact, and wash hands and use disinfectant on equipment.</li><li>Involve close contact with others so there is some additional risk.</li></ul>"
+        "answer": "<h2>It depends on the sport and the practices. </h2> <br> <ul><li>Outdoor singles tennis could be lower risk.</li> <li>Modify rules to avoid contact, and wash hands and use disinfectant on equipment.</li><li>Involve close contact with others so there is some additional risk.</li></ul>"
       }
     ]
   },
@@ -30,7 +30,7 @@ var data = [
       {
         "points": 100,
         "question": "<h1>Shopping</h1>",
-        "answer": "<p>Depends on whether the shopping is indoors or outdoors. It can, and sometimes hard to maintain distance. Others may not wear masks</p><br><ul><li>Go with a list, and take advantage of less-crowded hours.</li><li>Stores often offer hours for higher-risk individuals and have guidelines to follow.</li></ul>"
+        "answer": "<h2>Depends on whether the shopping is indoors or outdoors. It can, and sometimes hard to maintain distance. Others may not wear masks</h2><br><ul><li>Go with a list, and take advantage of less-crowded hours.</li><li>Stores often offer hours for higher-risk individuals and have guidelines to follow.</li></ul>"
       },
       {
         "points": 200,
@@ -80,7 +80,7 @@ var data = [
       {
         "points": 100,
         "question": "<h1>Bars, breweries, nightclubs</h1>",
-        "answer": "<h3>Minimize time and stay outdoors. where you might be able to maintain distance.</h3><br><h3>Avoid crowded locations</h3><br><h3>People in high-risk categories should consider higher risk activities carefully.</h3>"
+        "answer": "<h2>Minimize time and stay outdoors. where you might be able to maintain distance.</h3><br><h3>Avoid crowded locations</h2><br><h2>People in high-risk categories should consider higher risk activities carefully.</h2>"
       },
       {
         "points": 200,
