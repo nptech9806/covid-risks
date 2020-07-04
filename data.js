@@ -10,22 +10,22 @@ var data = [
       {
         "points": 200,
         "question": "Outdoor exercise and recreation",
-        "answer": "<p>Outdoor activity is generally lower risk, and passing by people briefly is lower risk.<p><br> <ul><li>The more people the greater the risk, so try to find less crowded areas and times.</li></ul"
+        "answer": "<p>Outdoor activity is generally lower risk.<p><br> <ul><li> Passing by people briefly is lower risk.</li><li>The more people the greater the risk.</li><li>Try to find less crowded areas and times.</li></ul"
       },
       {
         "points": 300,
         "question": "Vacation home, hotel or motel",
-        "answer": "<p>Once you are in the lodging, the risk is lower.</p><br><ul><li>Consider the risks of travel and the people you may encounter getting there; car travel with household members is lowest risk.</li><li>Try to plan ahead and take the necessary food and supplies.</li><li>Think about what you will do if you become ill while you are away.</li><li>Do a personal risk/benefit analysis for activities you might participate in while away.</li></ul>"
+        "answer": "<p>Once you are in the lodging, the risk is lower.</p><br><ul><li>Car travel with household members is lowest risk.</li><li>Try to plan ahead and take the necessary food and supplies.</li><li>Think about what you will do if you become ill while you are away.</li><li>Do a personal risk/benefit analysis for activities you might participate in while away.</li></ul>"
       },
       {
         "points": 400,
-        "question": "React uses a _____________ to limit direct manipulation of the DOM and improve performance",
-        "answer": "Virtual DOM"
+        "question": "Recreational sports - Tennis",
+        "answer": "<p>It depends on the sport and the practices. <p> <br> <ul><li>Outdoor singles tennis could be lower risk.</li> <li>Modify rules to avoid contact, and wash hands and use disinfectant on equipment.</li><li>Involve close contact with others so there is some additional risk.</li></ul>"
       }
     ]
   },
   {
-    "category": "React 201",
+    "category": "Medium",
     "questions": [
       {
         "points": 100,
@@ -50,7 +50,7 @@ var data = [
     ]
   },
   {
-    "category": "ES 2015",
+    "category": "Higher",
     "questions": [
       {
         "points": 100,
@@ -75,7 +75,7 @@ var data = [
     ]
   },
   {
-    "category": "Feeling Lucky",
+    "category": "Highest",
     "questions": [
       {
         "points": 100,
